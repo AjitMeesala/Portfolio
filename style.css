@@ -1,0 +1,22 @@
+body {
+    /* Webpage */
+
+
+    position: relative;
+    width: 1366px;
+    height: 3072px;
+
+    background: linear-gradient(107.54deg, #1F1919 0%, #353535 100%);
+}
+.bg-desgin {
+    /* 63 */
+
+
+position: absolute;
+left: 17.28%;
+right: 16.98%;
+top: -0.23%;
+bottom: 73.81%;
+
+opacity: 0.2;
+}
