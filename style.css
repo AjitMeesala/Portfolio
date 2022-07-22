@@ -3,20 +3,10 @@ body {
 
 
     position: relative;
-    width: 1366px;
+    width: 100%;
     height: 3072px;
+    overflow: hidden;
 
     background: linear-gradient(107.54deg, #1F1919 0%, #353535 100%);
-}
-.bg-desgin {
-    /* 63 */
-
-
-position: absolute;
-left: 17.28%;
-right: 16.98%;
-top: -0.23%;
-bottom: 73.81%;
-
-opacity: 0.2;
+    background-color: rgb(58, 57, 57);
 }
